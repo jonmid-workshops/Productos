@@ -8,7 +8,8 @@ const PORT = process.env.PORT || 5000
 
 var users = [
     {id: 0, name: 'oscar'},
-    {id: 1, name: 'juan'}
+    {id: 1, name: 'juan'},
+    {id: 2, name: 'diana'}
 ];
 
 // soporte para body codificados en jsonsupport
